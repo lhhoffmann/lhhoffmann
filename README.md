@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Luca Hoffmann 👋
 
-<!--
-**lhhoffmann/lhhoffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT Student currently specializing in **System Integration** in Germany. My professional focus lies in infrastructure, server management, and ensuring that systems work together seamlessly.
 
-Here are some ideas to get you started:
+### 🖥️ Professional Path & Interests
+- 🛠️ **Focus:** System Administration, Network Infrastructure, and Automation.
+- 🎓 **Education:** Currently in training as a "Fachinformatiker für Systemintegration".
+- ⚙️ **Goal:** Building stable, secure, and scalable IT environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Development Sandbox
+While my main career path is in systems engineering, I use coding as a tool to broaden my technical horizon. 
+- 🔭 **Current Project:** SpectraSharp - A personal sandbox for exploring C# and the .NET 10 ecosystem.
+- 🌱 **Learning Philosophy:** I prefer a hands-on approach. I build, I break, and I learn by fixing. This helps me understand the software side of the systems I manage.
+
+---
+📫 **Contact:** [luca@lhhoffmann.de](mailto:luca@lhhoffmann.de) | 🌐 [lhhoffmann.de](https://lhhoffmann.de)
