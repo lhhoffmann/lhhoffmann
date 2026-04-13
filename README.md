@@ -1,4 +1,4 @@
-# Hi, I'm Luca Hoffmann 👋
+# Hi, I'm Luca 👋
 
 I am an IT Student currently specializing in **System Integration** in Germany. My professional focus lies in infrastructure, server management, and ensuring that systems work together seamlessly.
 
