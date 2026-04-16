@@ -9,7 +9,7 @@ I am an IT Student currently specializing in **System Integration** in Germany. 
 
 ### 🚀 Development Sandbox
 While my main career path is in systems engineering, I use coding as a tool to broaden my technical horizon. 
-- 🔭 **Current Project:** SpectraSharp - A personal sandbox for exploring C# and the .NET 10 ecosystem.
+- 🔭 **Current Project:** SpectraEngine - A personal sandbox for exploring C# and the .NET 10 ecosystem.
 - 🌱 **Learning Philosophy:** I prefer a hands-on approach. I build, I break, and I learn by fixing. This helps me understand the software side of the systems I manage.
 
 ---
