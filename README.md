@@ -13,4 +13,4 @@ While my main career path is in systems engineering, I use coding as a tool to b
 - 🌱 **Learning Philosophy:** I prefer a hands-on approach. I build, I break, and I learn by fixing. This helps me understand the software side of the systems I manage.
 
 ---
-📫 **Contact:** [luca@lhhoffmann.de](mailto:luca@lhhoffmann.de) | 🌐 [lhhoffmann.de](https://lhhoffmann.de)
+📫 **Contact:** [luca@lhhoffmann.de](mailto:luca@lhhoffmann.de) | 🌐 [lhhoffmann.de](http://lhhoffmann.de)
